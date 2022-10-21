@@ -37,11 +37,11 @@ Donde url es la URL que copiaste en el paso anterior.<br>
 Edita el archivo `CONTRIBUTORS.md` en tu computadora:
    Agrega tu nombre y tu usuario de GitHub en la última línea del archivo de la siguiente manera:
    ```
-   Nombre de usuario: [usuario de GitHub](url del perfil de GitHub)
+   * Nombre de usuario: [usuario de GitHub](url del perfil de GitHub)
    ```
    **Ejemplo:**
    ```
-   Brandon Herrera: [brandonhxrr](https://github.com/brandonhxrr/)
+   * Brandon Herrera: [brandonhxrr](https://github.com/brandonhxrr/)
    ```
    <br>
 
